@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Divya 🌟
 
-<!--
-**dnaraine/dnaraine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fordham University | Business & Computer Science<br/>
 
-Here are some ideas to get you started:
+I’m a student who thrives at the intersection of business logic and technical execution. I use my daily pain points as an opportunity to code them away. I enjoy putting theory into practice by creating full-stack systems, analyzing data, and figuring out the right tools to bring an idea to life.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💠 My Projects:<br/>
+
+I like connecting the dots between data and the user. My work usually involves:<br/>
+  🛠 System Architecture<br/>
+  📈 Data Analysis & Visualizations<br/>
+  🤖 AI Components<br/>
+
+
+🚀 Currently Working On:<br/>
+
+Smart Job Tracker: Tool that allows for PDF uploads of job descriptions to extract and summarize key information. With the core functionality complete, I am currently focused on adding new features and improving the frontend experience. 
+
+💬 Find me on Linkedin @divya.naraine<br/>
