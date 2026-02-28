@@ -1,4 +1,4 @@
-## Hi, I'm Divya 🌟
+## Hi, I'm Divya! 🌟
 
 
 🎓 Fordham University | Business & Computer Science<br/>
