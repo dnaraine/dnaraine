@@ -18,7 +18,7 @@ I like connecting the dots between data and the user. My work usually involves:<
 
 Smart Job Tracker: Tool that allows for PDF uploads of job descriptions to extract and summarize key information. With the core functionality complete, I am currently focused on adding new features and improving the frontend experience. 
 
-💬 Find me on Linkedin @divya.naraine<br/>
+💬 Linkedin @divya.naraine<br/>
 
 
 # 💻 Tech Stack:
