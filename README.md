@@ -3,7 +3,7 @@
 
 🎓 Fordham University | Business & Computer Science<br/>
 
-I’m a student who thrives at the intersection of business logic and technical execution. I use my daily pain points as an opportunity to code them away. I enjoy putting theory into practice by creating full-stack systems, analyzing data, and figuring out the right tools to bring an idea to life.<br/>
+I thrive at the intersection of business logic and technical execution. I use my daily pain points as an opportunity to code them away. I enjoy putting theory into practice by creating full-stack systems, analyzing data, and figuring out the right tools to bring an idea to life.<br/>
 
 
 💠 My Projects:<br/>
